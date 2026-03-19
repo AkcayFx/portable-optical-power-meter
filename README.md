@@ -8,9 +8,13 @@ The device measures photodiode current using an ESP32 microcontroller, displays 
 
 ## 📷 Hardware
 
-| Schematic | Calibration Chart |
-|:---------:|:-----------------:|
-| ![Schematic](Shematic.jpeg) | ![Chart](Chart.jfif) |
+**Circuit Schematic**
+
+![Schematic](Shematic.jpeg)
+
+**Calibration — compared against Thorlabs PM100D reference meter**
+
+![Calibration Chart vs Thorlabs PM100D](Chart.jfif)
 
 ---
 
