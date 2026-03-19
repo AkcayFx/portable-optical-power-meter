@@ -1,0 +1,11 @@
+# ESP-IDF build output
+build/
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
